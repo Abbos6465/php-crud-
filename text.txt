@@ -1,0 +1,18 @@
+regions - table
+id
+name
+soato // 17034, 17043
+description
+reg_date
+created_at
+
+cites  - table
+id
+region_id
+name
+soato // 1703434, 1704367
+description
+reg_date
+created_at
+
+
